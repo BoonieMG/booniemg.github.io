@@ -695,7 +695,7 @@ input, select, textarea {
 			}
 
 		.image.main {
-			display: block;
+			display: inline;
 			margin: 2.5rem 0;
 			width: 100%;
 		}
@@ -1300,7 +1300,6 @@ input, select, textarea {
 
 			#header .logo .icon:before {
 				font-size: 2rem;
-				display: inline;
 			}
 
 		#header .content {
